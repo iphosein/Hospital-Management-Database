@@ -41,7 +41,7 @@ It provides structured storage for departments, doctors, patients, appointments,
 
 **[Your Name]**  
 📧 [your.email@example.com]  
-💼 GitHub: [https://github.com/yourusername](https://github.com/yourusername](https://github.com/iphosein)
+💼 GitHub: (https://github.com/iphosein)
 
 ---
 
